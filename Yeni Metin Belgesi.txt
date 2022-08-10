@@ -1,0 +1,11 @@
+x=0
+while x<10:
+    print("{} değeri 10'dan küçüktür.".format(x))
+    x+=1
+else:
+    y=15
+    y = y+ 1
+    print("{} değeri 10'dan küçük değil".format(y))
+
+file=open("dosya.py","a")
+file.close()
