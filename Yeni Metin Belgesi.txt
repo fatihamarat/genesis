@@ -1,6 +1,6 @@
 x=0
-while x<10:
-    print("{} değeri 10'dan küçüktür.".format(x))
+while x<20:
+    print("{} değeri 20'dan küçüktür.".format(x))
     x+=1
 else:
     y=15
